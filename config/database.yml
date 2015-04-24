@@ -1,9 +1,9 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: indiano_development
+  database: mydb
   pool: 5
-  username: oleg
+  username: patron
   password: 664578
 test:
   adapter: postgresql
